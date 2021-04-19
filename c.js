@@ -4,7 +4,7 @@ class Parent {
     }
 
     bar() {
-        console.log('parent bar method')
+        console.log('parent bar method111')
     }
 }
 
